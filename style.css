@@ -33,20 +33,20 @@ P {
   text-indent: 25px;
 }
  
-P.one {
+P {
   font-family: "Times New Roman", serif;
   font-size: 14pt;
   line-height: 20pt;
   color: green;
 }
  
-P.two {
+BR.one {
   font: italic 14pt/18pt "Times New Roman", serif;
   color: red;
   text-align: center;
 }
  
-P.three {
+BR.two {
   font-family: "Courier New", monospace;
   font-size: 13pt;
   font-weight: bold;
